@@ -1,0 +1,11 @@
+# Ignore Python virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# Ignore database and generated PDFs
+*.db
+*.pdf
+
+# Ignore screenshots if you want
+screenshots/
